@@ -177,11 +177,11 @@ For the imputed adtaset the mean total number of steps taken per day is 10766.19
 
 The mean value is the same while the median have increased by roughly 1.
 
-* Before filling the data:
+* Before imputing the data:
     + Mean : 10766.19
-    + Median: 10766.19
+    + Median: 10765.00
 
-* After filling the data:
+* After imputing the data:
     + Mean : 10766.19
     + Median: 10766.19
 
